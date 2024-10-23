@@ -16,7 +16,7 @@
 				break;
 		}		
 	}else{
-		echo "Selamat Datang Peran Sebagai Penggerak Perubahan Mengelola laporan masyarakat, dengan Kami Berupaya
-		meningkatkan efisiensi prioritas utama dan pastikan setiap isu mendapat perhatian yang layak.<br>";
+		echo "Bersiap Menjadi Solusi,Login untuk mengelola dan menyelesaikan
+		laporan masyarakat dengan cepat dan tepat.<br>";
 		echo "Anda Login Sebagai : ".$_SESSION['nama_petugas'];
 }
